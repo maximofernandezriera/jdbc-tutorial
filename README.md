@@ -1,4 +1,6 @@
-# jdbc tutorial
+# Jdbc tutorial
+
+Based on this tutorial and project: https://www.youtube.com/watch?v=KgXq2UBNEhA and modify for mariadb.
 
 REF1: Sample Project
 
